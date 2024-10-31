@@ -6,7 +6,7 @@
 
 **Tired of your Dualsense magic vanishing into the Otherworld every few minutes?** You're not alone. This might be the dorkiest little app ever, but it'll keep your Dualsense sorcery flowing smoothly in Silent Hill 2.
 
-**Silent Hill 2 Dualsense Pacemaker** is a tiny Windows app that quietly pulses a keystroke every 15 seconds, keeping your Dualsense features front and center. Until the devs work their magic, this is the next best thing. I've been using it nonstop, and I've almost forgotten about this Dualsense connectivity issue.
+**Silent Hill 2 Dualsense Pacemaker** is a tiny Windows app that quietly pulses a keystroke every 15 seconds, keeping your Dualsense features (i.e., adaptive triggers and haptic feedback) front and center. Until the devs work their magic, this is the next best thing. I've been using it nonstop, and I've almost forgotten about this Dualsense features issue.
 
 **No more fumbling with keys or losing immersion.** Just let the Pacemaker do its thing while you dive deep into the terrifying world of Silent Hill 2! 🤟
 
